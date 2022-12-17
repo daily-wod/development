@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://dev.daily-wod.app/static/css/main.fae10cbf.css",
-    "main.js": "https://dev.daily-wod.app/static/js/main.aa438fb1.js",
+    "main.css": "https://dev.daily-wod.app/static/css/main.f4bd7fb9.css",
+    "main.js": "https://dev.daily-wod.app/static/js/main.8f3225d6.js",
     "static/js/443.1d3c987c.chunk.js": "https://dev.daily-wod.app/static/js/443.1d3c987c.chunk.js",
     "static/js/738.92da1633.chunk.js": "https://dev.daily-wod.app/static/js/738.92da1633.chunk.js",
     "static/js/372.b98ae16a.chunk.js": "https://dev.daily-wod.app/static/js/372.b98ae16a.chunk.js",
@@ -17,8 +17,8 @@
     "static/media/icons_mobiscroll.ttf?jrwjvd": "https://dev.daily-wod.app/static/media/icons_mobiscroll.24d4b546edeb7fd549ab.ttf",
     "static/media/icons_mobiscroll.woff": "https://dev.daily-wod.app/static/media/icons_mobiscroll.ac258500affaefd1d05e.woff",
     "index.html": "https://dev.daily-wod.app/index.html",
-    "main.fae10cbf.css.map": "https://dev.daily-wod.app/static/css/main.fae10cbf.css.map",
-    "main.aa438fb1.js.map": "https://dev.daily-wod.app/static/js/main.aa438fb1.js.map",
+    "main.f4bd7fb9.css.map": "https://dev.daily-wod.app/static/css/main.f4bd7fb9.css.map",
+    "main.8f3225d6.js.map": "https://dev.daily-wod.app/static/js/main.8f3225d6.js.map",
     "443.1d3c987c.chunk.js.map": "https://dev.daily-wod.app/static/js/443.1d3c987c.chunk.js.map",
     "738.92da1633.chunk.js.map": "https://dev.daily-wod.app/static/js/738.92da1633.chunk.js.map",
     "372.b98ae16a.chunk.js.map": "https://dev.daily-wod.app/static/js/372.b98ae16a.chunk.js.map",
@@ -32,7 +32,7 @@
     "377.82b54cca.chunk.js.map": "https://dev.daily-wod.app/static/js/377.82b54cca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fae10cbf.css",
-    "static/js/main.aa438fb1.js"
+    "static/css/main.f4bd7fb9.css",
+    "static/js/main.8f3225d6.js"
   ]
 }
