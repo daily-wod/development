@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://dev.daily-wod.app/static/css/main.4d8014f0.css",
-    "main.js": "https://dev.daily-wod.app/static/js/main.a98cb649.js",
+    "main.js": "https://dev.daily-wod.app/static/js/main.53da0fcb.js",
     "static/js/738.74821b62.chunk.js": "https://dev.daily-wod.app/static/js/738.74821b62.chunk.js",
     "static/js/372.75354e92.chunk.js": "https://dev.daily-wod.app/static/js/372.75354e92.chunk.js",
     "static/js/856.5b5bf6fe.chunk.js": "https://dev.daily-wod.app/static/js/856.5b5bf6fe.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/icons_mobiscroll.woff": "https://dev.daily-wod.app/static/media/icons_mobiscroll.ac258500affaefd1d05e.woff",
     "index.html": "https://dev.daily-wod.app/index.html",
     "main.4d8014f0.css.map": "https://dev.daily-wod.app/static/css/main.4d8014f0.css.map",
-    "main.a98cb649.js.map": "https://dev.daily-wod.app/static/js/main.a98cb649.js.map",
+    "main.53da0fcb.js.map": "https://dev.daily-wod.app/static/js/main.53da0fcb.js.map",
     "738.74821b62.chunk.js.map": "https://dev.daily-wod.app/static/js/738.74821b62.chunk.js.map",
     "372.75354e92.chunk.js.map": "https://dev.daily-wod.app/static/js/372.75354e92.chunk.js.map",
     "856.5b5bf6fe.chunk.js.map": "https://dev.daily-wod.app/static/js/856.5b5bf6fe.chunk.js.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.4d8014f0.css",
-    "static/js/main.a98cb649.js"
+    "static/js/main.53da0fcb.js"
   ]
 }
