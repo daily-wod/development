@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a3f9077.css",
-    "main.js": "/static/js/main.d6de4704.js",
+    "main.css": "/static/css/main.dfd3d1a3.css",
+    "main.js": "/static/js/main.55348fed.js",
     "static/js/738.74821b62.chunk.js": "/static/js/738.74821b62.chunk.js",
     "static/js/372.75354e92.chunk.js": "/static/js/372.75354e92.chunk.js",
     "static/js/856.5b5bf6fe.chunk.js": "/static/js/856.5b5bf6fe.chunk.js",
@@ -13,12 +13,14 @@
     "static/js/815.43c2ed9f.chunk.js": "/static/js/815.43c2ed9f.chunk.js",
     "static/js/377.82b54cca.chunk.js": "/static/js/377.82b54cca.chunk.js",
     "service-worker.js": "/service-worker.js",
+    "static/media/campton-bold-webfont.woff": "/static/media/campton-bold-webfont.4e85773ac38e655d2722.woff",
+    "static/media/campton-bold-webfont.woff2": "/static/media/campton-bold-webfont.7fc762780cad0ec6e6a3.woff2",
     "static/media/signInIcon.svg": "/static/media/signInIcon.00d1ee14e57761b4ac686feec0064926.svg",
     "static/media/icons_mobiscroll.ttf?jrwjvd": "/static/media/icons_mobiscroll.24d4b546edeb7fd549ab.ttf",
     "static/media/icons_mobiscroll.woff": "/static/media/icons_mobiscroll.ac258500affaefd1d05e.woff",
     "index.html": "/index.html",
-    "main.2a3f9077.css.map": "/static/css/main.2a3f9077.css.map",
-    "main.d6de4704.js.map": "/static/js/main.d6de4704.js.map",
+    "main.dfd3d1a3.css.map": "/static/css/main.dfd3d1a3.css.map",
+    "main.55348fed.js.map": "/static/js/main.55348fed.js.map",
     "738.74821b62.chunk.js.map": "/static/js/738.74821b62.chunk.js.map",
     "372.75354e92.chunk.js.map": "/static/js/372.75354e92.chunk.js.map",
     "856.5b5bf6fe.chunk.js.map": "/static/js/856.5b5bf6fe.chunk.js.map",
@@ -31,7 +33,7 @@
     "377.82b54cca.chunk.js.map": "/static/js/377.82b54cca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a3f9077.css",
-    "static/js/main.d6de4704.js"
+    "static/css/main.dfd3d1a3.css",
+    "static/js/main.55348fed.js"
   ]
 }
