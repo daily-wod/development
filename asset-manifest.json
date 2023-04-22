@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cbcafd09.css",
-    "main.js": "/static/js/main.4ada2347.js",
+    "main.css": "/static/css/main.0e3c1bd6.css",
+    "main.js": "/static/js/main.c199f1b2.js",
     "static/js/336.49f1d9a8.chunk.js": "/static/js/336.49f1d9a8.chunk.js",
     "static/js/261.997e235e.chunk.js": "/static/js/261.997e235e.chunk.js",
     "static/js/27.a7dfbe53.chunk.js": "/static/js/27.a7dfbe53.chunk.js",
@@ -14,6 +14,12 @@
     "static/js/927.f3aabc94.chunk.js": "/static/js/927.f3aabc94.chunk.js",
     "static/js/540.04d60248.chunk.js": "/static/js/540.04d60248.chunk.js",
     "static/js/922.76cb2499.chunk.js": "/static/js/922.76cb2499.chunk.js",
+    "static/media/slide2.svg": "/static/media/slide2.a43f6799e840a5735cde346a121854e4.svg",
+    "static/media/slide2-ko.svg": "/static/media/slide2-ko.9b7394bff7003969b35df58375b3ef40.svg",
+    "static/media/slide3.svg": "/static/media/slide3.e4ca88c86ed0e636b60e6f2cf0ed4da3.svg",
+    "static/media/slide3-ko.svg": "/static/media/slide3-ko.732ab2c57d387fd62c0e2e7012572e73.svg",
+    "static/media/slide1.svg": "/static/media/slide1.2b9ba098e5c3cbd03ef7a23b48b48ecb.svg",
+    "static/media/slide1-ko.svg": "/static/media/slide1-ko.5f0dde1f26ce8e1af1adec2f7fce4d7d.svg",
     "service-worker.js": "/service-worker.js",
     "static/media/campton-bold-webfont.woff": "/static/media/campton-bold-webfont.4e85773ac38e655d2722.woff",
     "static/media/campton-bold-webfont.woff2": "/static/media/campton-bold-webfont.7fc762780cad0ec6e6a3.woff2",
@@ -23,7 +29,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.cbcafd09.css",
-    "static/js/main.4ada2347.js"
+    "static/css/main.0e3c1bd6.css",
+    "static/js/main.c199f1b2.js"
   ]
 }
