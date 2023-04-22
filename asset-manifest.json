@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef888109.css",
-    "main.js": "/static/js/main.0176d9e3.js",
+    "main.css": "/static/css/main.77f93ab2.css",
+    "main.js": "/static/js/main.701c52eb.js",
     "static/js/336.49f1d9a8.chunk.js": "/static/js/336.49f1d9a8.chunk.js",
     "static/js/261.997e235e.chunk.js": "/static/js/261.997e235e.chunk.js",
     "static/js/27.a7dfbe53.chunk.js": "/static/js/27.a7dfbe53.chunk.js",
@@ -14,13 +14,13 @@
     "static/js/927.f3aabc94.chunk.js": "/static/js/927.f3aabc94.chunk.js",
     "static/js/540.04d60248.chunk.js": "/static/js/540.04d60248.chunk.js",
     "static/js/922.76cb2499.chunk.js": "/static/js/922.76cb2499.chunk.js",
-    "static/media/slide1.svg": "/static/media/slide1.1f53e84c1c737c044fa2d18c18fa6938.svg",
-    "static/media/slide1-ko.svg": "/static/media/slide1-ko.77f2e57f8c8bddd98a1879328054c476.svg",
-    "static/media/slide2.svg": "/static/media/slide2.9489d1014682cb29ccfc1d65d4b5307d.svg",
-    "static/media/slide2-ko.svg": "/static/media/slide2-ko.913d5a271906a5987cd98b329f63dab8.svg",
-    "static/media/slide3.svg": "/static/media/slide3.33d69ec092a3a0279c42e22d4501c884.svg",
-    "static/media/slide3-ko.svg": "/static/media/slide3-ko.6b89da5e291fc307654f8f8049415bef.svg",
     "service-worker.js": "/service-worker.js",
+    "static/media/slide1.png": "/static/media/slide1.2420d8163846ac57b1a3.png",
+    "static/media/slide1-ko.png": "/static/media/slide1-ko.10ab2c2c8f304dc189c8.png",
+    "static/media/slide2.png": "/static/media/slide2.7a6d9a9ba8d641681686.png",
+    "static/media/slide2-ko.png": "/static/media/slide2-ko.5782f340ddec14bf5263.png",
+    "static/media/slide3.png": "/static/media/slide3.a43ac39f02ad92217ace.png",
+    "static/media/slide3-ko.png": "/static/media/slide3-ko.e848e5246154782b5cd0.png",
     "static/media/campton-bold-webfont.woff": "/static/media/campton-bold-webfont.4e85773ac38e655d2722.woff",
     "static/media/campton-bold-webfont.woff2": "/static/media/campton-bold-webfont.7fc762780cad0ec6e6a3.woff2",
     "static/media/signInIcon.svg": "/static/media/signInIcon.00d1ee14e57761b4ac686feec0064926.svg",
@@ -29,7 +29,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.ef888109.css",
-    "static/js/main.0176d9e3.js"
+    "static/css/main.77f93ab2.css",
+    "static/js/main.701c52eb.js"
   ]
 }
